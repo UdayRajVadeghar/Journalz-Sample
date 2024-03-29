@@ -1,0 +1,217 @@
+
+#titlediv{
+  position:sticky;
+  top :0px;
+  z-index: 1000;
+
+}
+
+.Image1{
+ 
+  
+  margin-left: 70px;
+  max-width: 80%;
+  height: auto;
+  border-radius: 10%;
+  border-width: 2px;
+  padding-top: 15px;
+  padding-right: 15px;
+  border-color: #00000044;
+  position: relative;
+  z-index: 999;
+  
+}
+
+.quote{
+  height: 100px;
+  width: 700px;
+  text-align: center;
+  color: white;
+  position: absolute;
+  bottom:0px;
+  left:130px;
+  text-shadow: 0px 2px 2px;
+  z-index: 999;
+}
+
+.paraDiv2{
+  font-size: 50px;
+}
+
+.fa-pen-nib{
+  
+  padding-left: 440px;
+  padding-top: 50px;
+  
+}
+.fa-crosshairs{
+  
+  padding-left: 100px;
+  padding-top: 50px;
+  
+}
+
+.fa-pen-to-square{
+  
+  padding-left: 100px;
+  padding-top: 50px;
+  
+}
+
+.fa-shield{
+  
+  padding-left: 100px;
+  padding-top: 50px;
+  
+}
+
+.icon{
+  font-size:4em;
+  color: rgb(37, 37, 186);
+}
+
+.icon1  {
+  font-size:4em;
+  color: rgb(83, 107, 109);
+  padding-left: 10px;
+  padding: 5px;
+}
+
+#label1{
+  padding-left: 420px;
+  padding-top: 10px;
+}
+
+#label2{
+  padding-left: 80px;
+  padding-top: 10px;
+}
+
+#label3{
+  padding-left: 75px;
+  padding-top: 10px;
+  padding-right: 80px;
+}
+
+.privacybox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.itemdiv4{
+  background-color: rgb(234, 234, 234);
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.containerdiv5{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.itemdiv{
+  display: flex;
+  width: 350px;
+  height: 350px;
+  margin: 0 10px;
+  border: 5px solid;
+  box-shadow: 10px 10px 10px grey;
+  border-radius: 10%;
+  border-width: 2px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.ImageBackground{
+  z-index: 999px;
+}
+
+.image3{
+  width: 40px;
+  height: auto;
+  float: left;
+  padding-top: 10px;
+}
+.comment{
+  float: right;
+  padding-left: 20px;
+}
+
+.commentBox {
+  height: 400px;
+  width: 1200px;
+  margin-left: 100px;
+  border: 5px solid black;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+
+.smallcommentbox{
+  height:400px;
+  width: 400px;
+  border: 3px;
+  border-style: solid;
+  flex-grow: 1;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+
+}
+.smallcommentboxsub{
+  height: 50px;
+  width: 50px;
+  border: 2px;
+  border-style: solid;
+  display: flex;
+
+}
+
+#one{
+  height: 100px;
+  width: 400px;
+}
+
+#two{
+  height: 300px;
+  width: 400px;
+}
+
+#part1{
+  height: 100px;
+  width: 100px;
+  border: 2px;
+  border-style: solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#part2{
+  height: 100px;
+  width: 300px;
+  border-style: solid;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.partitiion1{
+
+
+  
+}
+
+
+
+
+
+
